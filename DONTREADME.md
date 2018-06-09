@@ -1,6 +1,6 @@
 [Go back to the README](README.md)
 
-![](kofi)
+![](kofi.jpg)
 
 ![](https://statics.sportskeeda.com/wp-content/uploads/2017/05/braun-1494961418-800.png)
 
